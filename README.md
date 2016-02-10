@@ -8,13 +8,15 @@ Time spent: **90** minutes spent in total
 
 The following **required** functionality is completed:
 
-- [x] Display prime factors of a positive integer in descending order.
+- [x] Allow user to initial time in the hours and minutes
+- [x] A loop allow user repeatedly to enter additional minutes to advance the clock.
+- [x] Displays new time after the clock has been advanced.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/eu3Ryfq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/oXcTF5v.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
